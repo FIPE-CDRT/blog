@@ -11,7 +11,7 @@ draft: false
 
 **Descrição:** O Cadastro Geral de Empregados e Desempregados  constitui importante fonte de informação do mercado de trabalho de âmbito nacional e de periodicidade mensal. Foi criado como  instrumento de acompanhamento e de fiscalização do processo de admissão e de dispensa de trabalhadores regidos pela CLT, com o objetivo de  assistir os desempregados e de apoiar medidas contra o desemprego. A  partir de 1986, passou a ser utilizado como suporte ao pagamento do  seguro-desemprego e, mais recentemente, tornou-se, também, um relevante  instrumento à reciclagem profissional e à recolocação do trabalhador no  mercado de trabalho.
 
-**Frequência**: Trimestral **Fonte:** [MTE](http://pdet.mte.gov.br/o-que-e-caged)
+**Frequência**: Mensal **Fonte:** [MTE](http://pdet.mte.gov.br/o-que-e-caged)
 
 ## 2020
 
