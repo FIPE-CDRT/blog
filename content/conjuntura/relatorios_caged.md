@@ -13,6 +13,10 @@ draft: false
 
 **Frequência**: Mensal **Fonte:** [MTE](http://pdet.mte.gov.br/o-que-e-caged)
 
+## 2021
+
+[Janeiro](/relatorios_caged/Caged_012021.pdf)
+
 ## 2020
 
 [Dezembro](/relatorios_caged/Caged_122020.pdf)
