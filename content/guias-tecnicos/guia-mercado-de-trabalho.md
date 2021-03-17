@@ -4,7 +4,7 @@ date: 2021-01-08T15:24:54-03:00
 slug: "guia-mercado-de-trabalho"
 description: " Apresenta as principais pesquisas sobre mercado de trabalho no Brasil."
 keywords: ["PNADC", "RAIS", "CAGED", "Mercado de Trabalho"]
-draft: False
+draft: true
 tags: ["PNADC", "RAIS", "CAGED", "Mercado de Trabalho"]
 math: False
 toc: true
