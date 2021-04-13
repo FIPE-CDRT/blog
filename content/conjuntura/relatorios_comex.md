@@ -1,7 +1,7 @@
 ---
 title: "Relatórios - COMEX"
 description: "Análises de conjuntura da Balança Comercial"
-date: 2021-04-12T11:35:25-03:00
+date: 2021-03-16T13:16:18-03:00
 keywords: ["comex"]
 draft: false
 ---
